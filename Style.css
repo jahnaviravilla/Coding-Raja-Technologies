@@ -1,0 +1,22 @@
+/* body{
+    background-color: green;
+} */
+/* #cv-form  */
+ /* {   */
+    /* display: none; */
+  /* }   */
+#cv-template
+{
+    display:none;
+}
+.myimg
+{
+   /* border: 1px solid rgb(22, 167, 167) ;*/ 
+    border-radius:50%;
+    width: 150px;
+
+}
+.background
+{
+    background-color:azure;
+}
